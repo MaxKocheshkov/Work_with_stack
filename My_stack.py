@@ -20,12 +20,7 @@ class Stack:
         return len(self.my_stack)
 
 
-test_stack = Stack()
-print(test_stack.isEmpty())
-test_stack.push('dfsafag')
-print(test_stack.isEmpty())
-print(test_stack.peek())
-print(test_stack.size())
+
 
 
 
